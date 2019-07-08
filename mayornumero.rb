@@ -15,3 +15,5 @@ elsif numero3.to_i >= numero1.to_i and numero3.to_i >= numero2.to_i
     # Se evaluara que el numero 1 es igual que el numero 3 
   puts " El Numero #{num3} es el numero mayor"
 end
+
+#ejercicio para detectar que numero es mayor
